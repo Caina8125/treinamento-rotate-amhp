@@ -1,0 +1,12 @@
+# Dados reais (documentos de saúde — NUNCA versionar, LGPD) e artefatos gerados
+rotation_data/
+checkpoints/
+
+# Credenciais
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/

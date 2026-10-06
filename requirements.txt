@@ -1,0 +1,9 @@
+torch>=2.0.0
+torchvision>=0.15.0
+pymupdf>=1.24.0
+pillow>=10.0.0
+tqdm>=4.66.0
+onnx>=1.16.0
+customtkinter>=6.0.0  # só pra label_dataset.py (roda local, precisa de tela)
+boto3>=1.34.0
+python-dotenv>=1.0.0
